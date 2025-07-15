@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Eurostile;
+  font-weight: 400;
+  src: url('https://assets.cnstr.adjutant.ru/fonts/eurostile/Eurostile-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: Eurostile;
+  font-weight: 500;
+  src: url('https://assets.cnstr.adjutant.ru/fonts/eurostile/Eurostile-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: Eurostile;
+  font-weight: 600;
+  src: url('https://assets.cnstr.adjutant.ru/fonts/eurostile/Eurostile-Bold.otf') format('opentype');
+}
